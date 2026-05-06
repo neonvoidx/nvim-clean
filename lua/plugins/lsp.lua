@@ -17,7 +17,6 @@ local servers = {
   },
   nixd = {},
   bashls = {},
-  jsonls = {},
   yamlls = {},
   marksman = {},
   vtsls = {
